@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<expenses>
+  <expense date=" 9.7.2015" category="Образование" amount="900">
+    Книжка по Ruby on Rails
+  </expense>
+  <expense date=" 19.7.2015" category="Хороший программист" amount="100">
+    Пирожки и печенье
+  </expense>
+  <expense date=" 22.7.2015" category="Продукты питания" amount="2900">
+    Колбаса, сыр, хлеб и кефир
+  </expense>
+
+</expenses>
